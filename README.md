@@ -1,6 +1,5 @@
 # Cit-E Cycling — Competition Portal
-
-A lightweight PHP admin portal and public-facing registration site for a local cycling competition.
+A lightweight admin portal and public site for a local cycling competition. Includes an admin dashboard, participant management, and registration flow.
 
 The project includes:
 - Admin participant management dashboard
@@ -38,8 +37,8 @@ http://localhost:8080
 
 ### Default admin credentials
 The sample SQL data includes a default admin login:
-- Username: `admin`
-- Password: `password123`
+- Username: admin
+- Password: password123
 
 > For security, update the credentials before using this in production.
 
