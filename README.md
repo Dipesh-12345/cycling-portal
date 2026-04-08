@@ -75,11 +75,6 @@ cp .env.example .env
 docker-compose up --build
 ```
 
-## 🙋‍♂️ Want to extend this project?
-- Add user registration and admin roles
-- Add input validation and session security
-- Replace static HTML with a frontend framework
-- Use prepared statements or ORM for safer database access
 
 
 
